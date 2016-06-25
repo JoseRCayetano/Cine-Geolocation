@@ -1,0 +1,36 @@
+CINESA PLAZA DE ARMAS 3D
+Plaza de Armas,Plaza la Legión, s/n,41001 Sevilla
+Lat:
+37.38722064899003
+Lon:
+-5.999553649999939
+
+AVENIDA CINCO CINES
+Calle Marqués de Paradas, 15,41001 Sevilla
+Lat:
+37.3924546121381
+Lon:
+-6.00197234999996
+
+CINE CERVANTES
+Calle del Amor de Dios, 33,41002 Sevilla
+Lat:
+37.39562711213949
+Lon:
+-5.9944785999999795
+
+CINESUR NERVIÓN
+Calle Luis de Morales, Sevilla
+Lat:
+37.38508233341171
+Lon:
+-5.972364999999968
+
+CINE LOS ARCOS
+Calle Luis de Morales, Sevilla
+Lat:
+37.402440202215665
+Lon:
+-5.9582000000000335
+
+
